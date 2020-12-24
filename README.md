@@ -1,1 +1,1 @@
-# Latihan-CSS1
+# LatihanCSS1

@@ -1,0 +1,129 @@
+{
+	margin: 0;
+	padding: 0;
+	-webkit-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0,55);
+	-moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0,55);
+	box-shadow: 1px 1px 1px 0px rgba(204,204,204,0,55);
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+	background: #eee;
+}
+header{
+	text-align:center;
+	color: #232323;
+	background-color: #D79922;
+	width: 70%;
+	height: 50px;
+	margin: 25px auto;
+}
+header .judul{
+	font-size: 17pt;
+	background-color: #D79922;
+}
+header .deskripsi{
+	font-size: 11pt;
+	background-color: #D79922;
+}
+nav.menu ul{
+	overflow: hidden;
+	list-style: none;
+	float: left;
+	padding: 0;
+	width: 650px;
+	margin: 0 0 0;
+	background: #D9B08C;
+}
+nav.menu ul li{
+	margin:0;
+	float:left;
+
+}
+nav.menu ul a{
+	padding: 25px;
+	display: block;
+	font-weight: 600;
+	font-size: 16px;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: : none;
+}
+nav.menu ul a: hover 
+{
+	background-color: black; 
+}
+.nav{
+	width: 70%;
+	margin: 25px auto;
+}
+nav.menu ul {
+	width: 100%;
+}
+nav.menu ul li{
+	float: inherit;
+	margin: 0;
+}
+nav.menu ul a{
+	padding: 15px;
+	font-size: 16px;
+	text-align: center;
+	border-top: 1px solid #1abf9f;
+	border-bottom: 1px solid #16a085;
+}
+
+.box
+{
+	width: 70%;
+	margin: 25px auto;
+	border: 2px solid gainsboro;
+}
+.box h3
+{
+	color: black;
+	text-align: center;
+}
+.box img
+{
+	display: block;
+	width: 69%;
+	margin: 25px auto;
+}
+.box p
+{
+	margin: 25px auto;
+	text-align: center;
+}
+footer{
+	text-align:center;
+	color: white;
+	background-color: #D79922;
+	width: 70%;
+	height: 50px;
+	margin: 25px auto;
+}
+footer{
+	text-align:center;
+	color: white;
+	background-color: #D79922;
+	width: 70%;
+	height: 50px;
+	margin: 25px auto;
+}
+footer{
+	text-align:center;
+	color: white;
+	background-color: #D79922;
+	width: 70%;
+	height: 50px;
+	margin: 25px auto;
+}
+
+
+
+
+
+
+
+
+
+
